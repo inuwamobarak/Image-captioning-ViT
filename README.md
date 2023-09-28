@@ -14,6 +14,8 @@ Caption Generated: a black horse running through a grassy field
 
 This repository contains a project that explores the task of image captioning using Vision Transformers (ViTs). The project aims to generate descriptive captions for images by combining the power of Transformers and computer vision. It leverages state-of-the-art pre-trained ViT models and employs techniques such as attention mechanisms and language modeling to generate accurate and contextually relevant captions.
 
+Article link: https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
