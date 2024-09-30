@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/inuwamobarak/Image-captioning-ViT?style=social)
 ![GitHub](https://img.shields.io/github/license/inuwamobarak/Image-captioning-ViT)
 
+
 Example:
 
 ![download (6)](https://github.com/inuwamobarak/Image-captioning-ViT/assets/65142149/3bd2e23b-c39a-4a76-9038-42f83476ace1)
@@ -29,8 +30,15 @@ Article link: https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/
 ## Introduction
 Image captioning is a challenging problem that involves generating human-like descriptions for images. By utilizing Vision Transformers, this project aims to achieve improved image understanding and caption generation. The combination of computer vision and Transformers has shown promising results in various natural language processing tasks, and this project explores their application to image captioning.
 
+You can find more details on how I used Litserve to handle creating an image captioning server here: [Litserve]() .
+
+
 ## Dataset
 The dataset used for this project consists of paired image-caption data. Each image is associated with one or more descriptive captions. The dataset is not included in this repository, but you can find popular image captioning datasets such as MS COCO, Flickr30k, or Conceptual Captions for experimentation.
+
+## Finetuning
+You can find the notebook on finetuning on your own dataset in the finetuning directory:
+[here](https://github.com/inuwamobarak/Image-captioning-ViT/blob/main/Image_Caption_Generation_Using_Generative_Artificial_Intelligencee.ipynb)
 
 ## Installation
 To use the code in this repository, follow these steps:
